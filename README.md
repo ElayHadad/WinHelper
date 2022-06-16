@@ -1,5 +1,5 @@
 # WinHelper
-Project aim to automate hidden Windows function to improve users experience and serve better functionality for computing class' managers.
+Project aim to automate hidden Windows functions to improve users experience and serve better functionality for computing class' managers.
 
 ## Usefulness and usability
 Right now the avaliable features are:
