@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W1nd0ws_Tweaker", "W1nd0ws_Tweaker\W1nd0ws_Tweaker.csproj", "{557BED43-97C7-44FC-B649-F1E7F3842D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageButton", "ImageButton\ImageButton.csproj", "{2E2DB4DA-8870-4911-B540-C89DE98F82AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557BED43-97C7-44FC-B649-F1E7F3842D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557BED43-97C7-44FC-B649-F1E7F3842D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557BED43-97C7-44FC-B649-F1E7F3842D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557BED43-97C7-44FC-B649-F1E7F3842D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2DB4DA-8870-4911-B540-C89DE98F82AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2DB4DA-8870-4911-B540-C89DE98F82AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2DB4DA-8870-4911-B540-C89DE98F82AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2DB4DA-8870-4911-B540-C89DE98F82AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC87A28D-8D00-45BB-B531-0A292AC49207}
+	EndGlobalSection
+EndGlobal
