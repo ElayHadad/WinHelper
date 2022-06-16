@@ -1,4 +1,4 @@
-﻿namespace W1nd0ws_Tweaker
+﻿namespace WinHelper
 {
     partial class MainForm
     {
@@ -135,13 +135,12 @@
             // 
             // icon
             // 
-            this.icon.Image = global::W1nd0ws_Tweaker.Properties.Resources.Icon1;
-            this.icon.InitialImage = null;
-            this.icon.Location = new System.Drawing.Point(2, 2);
+            this.icon.Image = ((System.Drawing.Image)(resources.GetObject("icon.Image")));
+            this.icon.Location = new System.Drawing.Point(3, -1);
             this.icon.Name = "icon";
-            this.icon.Size = new System.Drawing.Size(45, 45);
+            this.icon.Size = new System.Drawing.Size(50, 50);
             this.icon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.icon.TabIndex = 0;
+            this.icon.TabIndex = 13;
             this.icon.TabStop = false;
             this.icon.Click += new System.EventHandler(this.icon_Click);
             // 

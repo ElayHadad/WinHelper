@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using Microsoft.Win32;
 using System.Linq.Expressions;
 
-namespace W1nd0ws_Tweaker
+namespace WinHelper
 {
     public partial class MainForm : Form
     {

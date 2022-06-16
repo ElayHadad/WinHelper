@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace W1nd0ws_Tweaker.Properties
+namespace WinHelper.Properties
 {
 
 

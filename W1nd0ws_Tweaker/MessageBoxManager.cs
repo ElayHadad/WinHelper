@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Security.Permissions;
 
 [assembly: SecurityPermission(SecurityAction.RequestMinimum, UnmanagedCode = true)]
-namespace W1nd0ws_Tweaker
+namespace WinHelper
 {
     public class MessageBoxManager
     {

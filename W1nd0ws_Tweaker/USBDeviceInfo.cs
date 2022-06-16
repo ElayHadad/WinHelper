@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Management;
 
-namespace W1nd0ws_Tweaker
+namespace WinHelper
 {
     class USBDeviceInfo
     {
